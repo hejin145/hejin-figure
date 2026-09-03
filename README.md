@@ -23,7 +23,7 @@
 
 ```yaml
 请安装这个仓库中的全部 Codex Skills：
-https://github.com/summer-ai-lab/sci-figure
+https://github.com/hejin145/hejin-figure
 ```
 
 Codex 会识别并安装仓库中的两个 Skill。安装完成后，新建一个任务即可使用。
